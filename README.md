@@ -1,6 +1,6 @@
 # Gather: Turning "we should hang out" into an actual plan
 
-![image alt](
+![image alt](https://github.com/rishinarige-pixel/Gather-UX-case-study/blob/bd343ed5dbb2b53e3cf6370594aedd6f30abffec/iPhone%2018%20Pro.png)
 
 A mobile app case study. UX/UI Design. [Figma Project](https://www.figma.com/design/d6KH1O9Aw03wX2ZtBrFGSH/Gather)
 
@@ -23,6 +23,8 @@ Plans fail not because people don't want to hang out, but because the tools dema
 ## Who It's For
 
 Gather is built for friend groups in their mid-20s who want to hang out spontaneously but keep losing the thread in group chats. Three types of people showed up consistently in my research: initiators who post ideas but get tired of always organizing, busy joiners who want a simple yes or no without reading forty messages, and over-planners who need to know who's coming before they'll commit. Full persona details, including quotes and behaviors, are below.
+
+
 
 ## Research Synthesis
 
