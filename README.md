@@ -28,12 +28,7 @@ Gather is built for friend groups in their mid-20s who want to hang out spontane
 
 ## Research Synthesis
 
-Key insights from a competitive audit and observed user behavior patterns.
-
-1. 73% of plans started in group chats never materialize.
-2. The average person uses 5+ apps to coordinate a single hangout.
-3. An unconfirmed plan idea is forgotten within about 48 hours on average.
-4. 1 in 3 people say they avoid organizing because it feels like too much work.
+![image](https://github.com/rishinarige-pixel/Gather-UX-case-study/blob/28004e3a6e78e837bac4ef63855de8b22f4c0f22/research-insights.png)
 
 ### Competitive audit: what's missing
 
