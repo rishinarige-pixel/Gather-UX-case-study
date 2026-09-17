@@ -2,7 +2,7 @@
 
 ![image alt](https://github.com/rishinarige-pixel/Gather-UX-case-study/blob/bd343ed5dbb2b53e3cf6370594aedd6f30abffec/iPhone%2018%20Pro.png)
 
-A mobile app case study. UX/UI Design. [Figma Project](https://www.figma.com/proto/d6KH1O9Aw03wX2ZtBrFGSH/Gather?node-id=224-1703&viewport=-2102%2C175%2C0.15&t=7BY3Y2f4Kqojno5F-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=224%3A1703&show-proto-sidebar=1&page-id=0%3A1)
+Gather app prototype. [Figma Project](https://www.figma.com/proto/d6KH1O9Aw03wX2ZtBrFGSH/Gather?node-id=224-1703&viewport=-2102%2C175%2C0.15&t=7BY3Y2f4Kqojno5F-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=224%3A1703&show-proto-sidebar=1&page-id=0%3A1)
 
 ## The Problem
 
