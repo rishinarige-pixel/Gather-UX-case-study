@@ -78,6 +78,8 @@ Friend groups, availability, privacy, and notifications.
 
 Plan card lifecycle: idea posted, getting interest, threshold reached, confirmed, archived.
 
+![image alt](https://github.com/rishinarige-pixel/Gather-UX-case-study/blob/a037c22abe1310bbdfb2ca4d1a1666950720711a/Information%20Architecture.png)
+
 ## User Flows
 
 Three core flows cover the full product experience.
