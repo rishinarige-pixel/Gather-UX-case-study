@@ -24,7 +24,7 @@ Plans fail not because people don't want to hang out, but because the tools dema
 
 Gather is built for friend groups in their mid-20s who want to hang out spontaneously but keep losing the thread in group chats. Three types of people showed up consistently in my research: initiators who post ideas but get tired of always organizing, busy joiners who want a simple yes or no without reading forty messages, and over-planners who need to know who's coming before they'll commit. Full persona details, including quotes and behaviors, are below.
 
-
+![image alt](https://github.com/rishinarige-pixel/Gather-UX-case-study/blob/47e049bea1214baa8ed6d5584d7ab7e9f93f9957/user-personas-v2.png)
 
 ## Research Synthesis
 
