@@ -3,6 +3,8 @@ UX case study for Gather, a plan coordination app.
 
 # Gather: Turning "we should hang out" into an actual plan
 
+![image alt](https://github.com/rishinarige-pixel/Gather-UX-case-study/blob/c671c382d5ffa07fb52a36345d9dd365abce5062/iPhone%2018%20Pro.png)
+
 **A mobile app case study** · UX/UI Design · [Figma Project](https://www.figma.com/design/d6KH1O9Aw03wX2ZtBrFGSH/Gather) · [Prototype](https://www.figma.com/design/d6KH1O9Aw03wX2ZtBrFGSH/Gather?node-id=251-21329)
 
 ## The Problem
