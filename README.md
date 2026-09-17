@@ -90,6 +90,8 @@ Three core flows cover the full product experience.
 
 **Flow 2, Reacting to a plan (Arjun).** He gets a notification and opens the board to see Sara's card, taps it to expand and see who else has reacted, then reacts with a one tap "I'm in," "Maybe," or "Suggest a time." Sara gets notified of his response, and if enough interest builds, the card upgrades to a "getting hot" state, prompting Sara to confirm details.
 
+![image alt](https://github.com/rishinarige-pixel/Gather-UX-case-study/blob/47c89666bab6fbb78a2691253c199f9bc8cdd21d/User%20Flow%202.png)
+
 **Flow 3, Confirming a plan (Sara).** A threshold notification tells her three friends are in, with a "Make it official" call to action. She confirms the time and adds a location, with fields pre-filled from what was already shared. The plan moves to a confirmed state, a group chat thread opens automatically, and all participants are notified. The plan then lives in "My Plans" until it's archived after the date passes.
 
 ## Feature Prioritization (MoSCoW)
