@@ -94,6 +94,8 @@ Three core flows cover the full product experience.
 
 **Flow 3, Confirming a plan (Sara).** A threshold notification tells her three friends are in, with a "Make it official" call to action. She confirms the time and adds a location, with fields pre-filled from what was already shared. The plan moves to a confirmed state, a group chat thread opens automatically, and all participants are notified. The plan then lives in "My Plans" until it's archived after the date passes.
 
+![image alt](https://github.com/rishinarige-pixel/Gather-UX-case-study/blob/49497025c383c8b18ebf6507c3babd4c5af845c4/User%20Flow%203.png)
+
 ## Feature Prioritization (MoSCoW)
 
 **Must have:** quick plan post (text plus optional time), react options (in, maybe, suggest time), the plan card feed, the plan state lifecycle, friend group visibility controls, and push notifications.
