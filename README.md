@@ -24,8 +24,6 @@ Plans fail not because people don't want to hang out, but because the tools dema
 
 Gather is built for friend groups in their mid-20s who want to hang out spontaneously but keep losing the thread in group chats. Three types of people showed up consistently in my research: initiators who post ideas but get tired of always organizing, busy joiners who want a simple yes or no without reading forty messages, and over-planners who need to know who's coming before they'll commit. Full persona details, including quotes and behaviors, are below.
 
-![image alt](https://github.com/rishinarige-pixel/Gather-UX-case-study/blob/47e049bea1214baa8ed6d5584d7ab7e9f93f9957/user-personas-v2.png)
-
 ## Research Synthesis
 
 ![image](https://github.com/rishinarige-pixel/Gather-UX-case-study/blob/28004e3a6e78e837bac4ef63855de8b22f4c0f22/research-insights.png)
@@ -45,23 +43,7 @@ No app exists that lets you post a loose idea to your friend group, collect soft
 
 Three distinct users, one shared pain point.
 
-**Sara, 26, Hyderabad, UX designer. The spontaneous initiator.**
-Goals: post hangout ideas quickly without overthinking, and see who's actually free before committing.
-Behaviors: starts plans in group chats with low effort messages like "anyone up?" and often nudges the group when there's silence.
-Pain points: messages get buried and responses come too late; feels like she's always the one organizing.
-In her words: "I just want to see who's around. I don't need to plan the whole thing."
-
-**Arjun, 29, remote software engineer. The busy joiner.**
-Goals: join plans with minimum effort and not miss out on things happening nearby.
-Behaviors: skims chats and replies late if details aren't clear; prefers a simple where and when over long discussions.
-Pain points: finds out plans happened after the fact; hates committing before knowing who else is in.
-In his words: "Just tell me where and when and I'll show up. I don't need to be in 40 messages about it."
-
-**Nisha, 24, freelancer, part of multiple friend groups. The anxious over planner.**
-Goals: know who's coming before saying yes, and keep different friend groups separate.
-Behaviors: asks clarifying questions early (who, what, where) and hesitates to respond until details feel stable.
-Pain points: it's awkward when a plan goes to the wrong people; she says yes, then backs out when details change.
-In her words: "I need to know who's in and what exactly we're doing before I can commit."
+![image alt](https://github.com/rishinarige-pixel/Gather-UX-case-study/blob/47e049bea1214baa8ed6d5584d7ab7e9f93f9957/user-personas-v2.png)
 
 ## User Journey Map
 
