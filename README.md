@@ -86,6 +86,8 @@ Three core flows cover the full product experience.
 
 **Flow 1, Posting a plan idea (Sara).** She opens Gather and taps the plus button, types a quick idea like "anyone up for chai tonight?" into a single text field with no required fields yet, optionally adds a time or visibility chip, then posts. The card appears on the board with her avatar, and a soft push notification goes to the selected friend group.
 
+![image alt](https://github.com/rishinarige-pixel/Gather-UX-case-study/blob/34c3c6ac234138edd2bd3dd20fb55f4914a5f158/User%20Flow%201.png)
+
 **Flow 2, Reacting to a plan (Arjun).** He gets a notification and opens the board to see Sara's card, taps it to expand and see who else has reacted, then reacts with a one tap "I'm in," "Maybe," or "Suggest a time." Sara gets notified of his response, and if enough interest builds, the card upgrades to a "getting hot" state, prompting Sara to confirm details.
 
 **Flow 3, Confirming a plan (Sara).** A threshold notification tells her three friends are in, with a "Make it official" call to action. She confirms the time and adds a location, with fields pre-filled from what was already shared. The plan moves to a confirmed state, a group chat thread opens automatically, and all participants are notified. The plan then lives in "My Plans" until it's archived after the date passes.
