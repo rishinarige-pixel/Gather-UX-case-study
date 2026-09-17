@@ -26,11 +26,14 @@ Friend groups who want to hang out spontaneously but keep losing the thread in c
 *(This is the section to fill in with your actual process: sketches, wireframes, user flows, iterations, testing, etc. A suggested structure:)*
 
 1. **Research**: what you learned about how friend groups currently coordinate plans
-2. **Ideation**: early sketches and low fidelity wireframes
-3. **Information architecture**: mapping out the app's structure (see below, this part's already built out)
-4. **User flows**: the core interaction loops (also below)
-5. **Visual design**: moving from wireframes to the high fidelity screens
-6. **Iteration**: what changed and why, based on feedback or testing
+
+![image alt](https://github.com/rishinarige-pixel/Gather-UX-case-study/blob/50948da2a3642ac65c3b57100ac0472c5259a2c6/user-personas-v2.png)
+   
+3. **Ideation**: early sketches and low fidelity wireframes
+4. **Information architecture**: mapping out the app's structure (see below, this part's already built out)
+5. **User flows**: the core interaction loops (also below)
+6. **Visual design**: moving from wireframes to the high fidelity screens
+7. **Iteration**: what changed and why, based on feedback or testing
 
 ## The Solution
 
